@@ -1,4 +1,6 @@
-# BACK-PROPOGATION---SINGLE-NEURON-
+## EX.NO: 07
+## DATE:
+# <p align="center"> BACK-PROPOGATION---SINGLE-NEURON-
 ## AIM:
 To write a python program to perform Back Propagation with Single Neuron.
 ## Equipments Required:
@@ -47,7 +49,7 @@ print(w)
 ~~~
 
 ## Output:
- ![Back Propagation with Single Neuron - Jupyter Notebook — Mozilla Firefox 20-04-2022 20_25_46](https://user-images.githubusercontent.com/75235386/164259834-47619687-1839-45f7-83c0-282ce028b137.png)
+![Back Propagation with Single Neuron - Jupyter Notebook — Mozilla Firefox 20-04-2022 20_25_46 (2)](https://user-images.githubusercontent.com/75235386/166245161-b89f5bb0-7bf6-476c-a22d-4f7190350287.png)
 
 ## Result:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
